@@ -60,10 +60,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .profile img {
-  margin: 15px auto;
-  display: block;
-  width: 120px;
-  border: 8px solid #2c2f3f;
+    margin: 15px auto;
+    display: block;
+    width: 130px;
+    height: 155px;
+    box-shadow: 5px white 2px 3px;
+    box-shadow: #545353 2px 4px 5px 6px;
+}
+.image-between{
+  width: 60%;
+  margin-left: 50px;
 }
 
 #header .profile h1 {
